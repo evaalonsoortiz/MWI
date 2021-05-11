@@ -13,9 +13,10 @@ Myelin Water Imaging
 
     complex_three_comp_analysis(mag_data_file_name, phase_data_file_name, cls_file_name)
 
-    mag_data_file_name : multi-gradient echo magnitude image in minc format
-    phase_data_file_name : multi-gradient echo phase image in minc format
-    cls_file_name : tissue mask to be used for processing (1->CSF, 2->GM, 3->WM) in minc format
+    mag_data_file_name : multi-gradient echo magnitude image in minc format.  
+    phase_data_file_name : multi-gradient echo phase image in minc format.  
+    cls_file_name : tissue mask to be used for processing (1->CSF, 2->GM, 3->WM) in minc format.  
+    
 
     NOTES:
 
